@@ -1,5 +1,6 @@
 baseurl = "http://sir-wiggles.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "base16"
+theme = "detox"
 pygmentsuseclasses = true
+Shortname = "XYW"

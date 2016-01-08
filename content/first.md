@@ -5,3 +5,12 @@ title = "first"
 +++
 
 foo
+
+{{< highlight html >}}
+<section id="main">
+  <div>
+    <h1 id="title">.Title</h1>
+  </div>
+</section>
+{{< /highlight >}}
+
